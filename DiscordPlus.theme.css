@@ -21,21 +21,21 @@
   --dplus-backdrop: url(https://cdn.discordapp.com/attachments/951490712401219594/1089305150608392313/OMGMIZUKIHBWJDJ2EHB2QJHFBHMARRYMERN.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 253;
+  --dplus-accent-color-saturation: 61%;
+  --dplus-accent-color-lightness: 24%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 210;
+  --dplus-foreground-color-hue-base: 278;
   --dplus-foreground-color-hue-links: 197;
-  --dplus-foreground-color-saturation-amount: 1;
-  --dplus-foreground-color-lightness-amount: 1;
+  --dplus-foreground-color-saturation-amount: 27;
+  --dplus-foreground-color-lightness-amount: 33;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
-  --dplus-background-color-hue: 320;
-  --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.8;
+  --dplus-background-color-hue: 259;
+  --dplus-background-color-saturation-amount: 45;
+  --dplus-background-color-lightness-amount: 62;
+  --dplus-background-color-alpha: 0.18;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -86,6 +86,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
---dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
+--dplus-icon-home-dark: url(https://cdn.discordapp.com/emojis/1016160555347759134.webp?size=128&quality=lossless);
+--dplus-icon-home-light: url(https://cdn.discordapp.com/emojis/1016160555347759134.webp?size=128&quality=lossless);
 }

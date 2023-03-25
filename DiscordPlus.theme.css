@@ -4,11 +4,9 @@
  * @authorId 309931975102300160
  * @authorLink https://plusinsta.xyz
  * @version 3.2.1
- * @description A sleek, customizable Discord theme.
- * @donate https://ko-fi.com/plusinsta
- * @website https://plusinsta.github.io/discord-plus
+ * @description A sleek, customizable Discord theme. (EDITED,NOT ORIGINAL)
  * @source https://github.com/PlusInsta/discord-plus
- * @updateUrl https://plusinsta.github.io/discord-plus/DiscordPlus.theme.css
+ * @updateUrl https://https://No-1-Mizuki-Fan.github.io/discord-plus/src/DiscordPlus-source.theme.css
  * @invite 2Jwh2nS
 */
 @import url(https://No-1-Mizuki-Fan.github.io/discord-plus/src/DiscordPlus-source.theme.css);
@@ -40,7 +38,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://cdn.discordapp.com/attachments/951490712401219594/1089305150608392313/OMGMIZUKIHBWJDJ2EHB2QJHFBHMARRYMERN.png);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
